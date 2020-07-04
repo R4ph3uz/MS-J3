@@ -26,7 +26,52 @@
         </div>
     </header>
 
-    <div class="mxw800p">
+    <div class="mxw900p">
+        <section class="banniere">
+            <h1 class="hidden"> Mary's sweatest place</h1>
+            <div class="banniere__container">
+                <div class="banniere__slider">
+                    <div class="slide">
+                        <div class="assiette"> SVG + <img src="./private/img/carroussel/plat1.webp" alt="plat 1"> </div>
+                        <div class="content">
+                            <h2><img src="./private/logos/ecriture/" alt=""></h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione rem nostrum ducimus laborum omnis a recusandae esse, perspiciatis adipisci atque blanditiis odio minus, laudantium quam, aliquid voluptates! Dignissimos, cumque iure.</p>
+                            <a href="">Call to action</a>
+                        </div>
+                    </div>
+
+                    <div class="slide">
+                        <div class="assiette"> SVG + <img src="./private/img/carroussel/plat1.webp" alt="plat 1"> </div>
+                        <div class="content">
+                            <h2><img src="./private/logos/ecriture/" alt=""></h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione rem nostrum ducimus laborum omnis a recusandae esse, perspiciatis adipisci atque blanditiis odio minus, laudantium quam, aliquid voluptates! Dignissimos, cumque iure.</p>
+                            <a href="">Call to action</a>
+                        </div>
+                    </div>
+
+                    <div class="slide">
+                        <div class="assiette"> SVG + <img src="./private/img/carroussel/plat1.webp" alt="plat 1"> </div>
+                        <div class="content">
+                            <h2><img src="./private/logos/ecriture/" alt=""></h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione rem nostrum ducimus laborum omnis a recusandae esse, perspiciatis adipisci atque blanditiis odio minus, laudantium quam, aliquid voluptates! Dignissimos, cumque iure.</p>
+                            <a href="">Call to action</a>
+                        </div>
+                    </div>
+
+                    <div class="slide">
+                        <div class="assiette"> SVG + <img src="" alt=""> </div>
+                        <div class="content"> </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bannierre__arrows">
+                <a href="">L Key</a>
+                <a href="">D Key</a>
+                <a href="">R Key</a>
+            </div>
+        </section>
+
 
     </div>
 
