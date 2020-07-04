@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"version":3,"sourceRoot":"","sources":["../scss/base/_base.scss","../scss/outils/_variables.scss","../scss/composant/_sections.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;AAGJ;EACI,kBCNE;;;ACDN;EACI;EACA,kBDFG;ECGH;EACA","file":"style.css"}
-=======
-{"version":3,"sourceRoot":"","sources":["../scss/base/_base.scss","../scss/outils/_variables.scss","../scss/base/_typo.scss","../scss/composant/_sections.scss","../scss/layout/_header.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;;;AAGJ;EACI,kBCNE;;;ACFN;EACI;;;ACCJ;EACI;EACA,kBFJG;;;AGAP;EACE;EACA;EACA,kBHHK;;AGIL;EACE;EACA;EACA;EACA;EACA;EACA;;AACA;EACE;EACA;;AAEE;EACE,OHdJ;EGeI;EACA;;AACA;EACI,OHjBP","file":"style.css"}
->>>>>>> header
+{"version":3,"sourceRoot":"","sources":["../scss/base/_base.scss","../scss/outils/_variables.scss","../scss/base/_typo.scss","../scss/composant/_sections.scss","../scss/layout/_header.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;;;AAGJ;EACI,kBCNE;;;ACFN;EACI;;;ACDJ;EACI;EACA,kBFFG;EEGH;EACA;;;ACJJ;EACE;EACA;EACA,kBHHK;;AGIL;EACE;EACA;EACA;EACA;EACA;EACA;;AACA;EACE;EACA;;AAEE;EACE,OHdJ;EGeI;EACA;;AACA;EACI,OHjBP","file":"style.css"}
