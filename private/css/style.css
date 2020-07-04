@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  list-style: none;
 }
 
 body {
@@ -13,6 +14,9 @@ body {
   visibility: hidden;
   position: absolute;
 }
+body {
+  font-family: sans-serif;
+}
 
 .mxw900p {
   max-width: 900px;
@@ -21,9 +25,36 @@ body {
   min-height: 300px;
 }
 
+
 section.banniere {
   width: 100%;
   height: 100vh;
+}
+
+header {
+  width: 100vw;
+  height: 90px;
+  background-color: #f1f0f1;
+}
+header .header__container {
+  margin: auto;
+  max-width: 80%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header .header__container ul {
+  display: flex;
+  justify-content: space-around;
+}
+header .header__container ul li a {
+  color: #f5cac3;
+  text-decoration: none;
+  margin-left: 3rem;
+}
+header .header__container ul li a:hover, header .header__container ul li a#active {
+  color: #c4a8a4;
 }
 
 /*# sourceMappingURL=style.css.map */

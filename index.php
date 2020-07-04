@@ -12,15 +12,18 @@
 
 <body>
     <header>
-        <div class="header__logo">
-            <img src="./private/img/logos/" alt="logo">
+        <div class="header__container">
+            <div class="header__logo">
+                <img src="./private/img/logos/" alt="logo">
+            </div>
+            <ul>
+                <li><a href="#banniere">Accueil</a></li>
+                <li><a href="#A-Propos">A propos</a></li>
+                <li><a href="#Services">Services</a></li>
+                <li><a href="#Galerie">Galerie</a></li>
+                <li><a href="#Contact">Contact</a></li>
+            </ul>
         </div>
-        <ul>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-        </ul>
     </header>
 
     <div class="mxw900p">
@@ -68,6 +71,7 @@
                 <a href="">R Key</a>
             </div>
         </section>
+
 
     </div>
 
