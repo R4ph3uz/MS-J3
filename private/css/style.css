@@ -13,4 +13,12 @@ body {
   background-color: #f1f0f1;
 }
 
+header {
+  width: 100vw;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #0f0f0f;
+}
+
 /*# sourceMappingURL=style.css.map */
