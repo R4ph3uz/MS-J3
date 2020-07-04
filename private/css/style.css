@@ -8,11 +8,22 @@ body {
   background-color: #f5cac3;
 }
 
-.mxw800p {
-  max-width: 800px;
+.hidden {
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+}
+
+.mxw900p {
+  max-width: 900px;
   background-color: #f1f0f1;
   margin: auto;
   min-height: 300px;
+}
+
+section.banniere {
+  width: 100%;
+  height: 100vh;
 }
 
 /*# sourceMappingURL=style.css.map */

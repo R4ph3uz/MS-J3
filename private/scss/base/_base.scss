@@ -7,3 +7,8 @@
 body{
     background-color: $bg-body;
 }
+.hidden{
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
