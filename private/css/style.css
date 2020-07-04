@@ -25,7 +25,7 @@ header {
 }
 header .header__container {
   margin: auto;
-  max-width: 90%;
+  max-width: 80%;
   height: 100%;
   display: flex;
   justify-content: space-between;
@@ -38,7 +38,7 @@ header .header__container ul {
 header .header__container ul li a {
   color: #f5cac3;
   text-decoration: none;
-  margin-left: 2rem;
+  margin-left: 3rem;
 }
 header .header__container ul li a:hover, header .header__container ul li a#active {
   color: #c4a8a4;

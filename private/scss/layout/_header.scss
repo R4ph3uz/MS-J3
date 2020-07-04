@@ -4,7 +4,7 @@ header {
   background-color: $background-header;
   .header__container {
     margin: auto;
-    max-width: 90%;
+    max-width: 80%;
     height: 100%;
     display: flex;
     justify-content: space-between;
@@ -16,7 +16,7 @@ header {
         a {
           color: $pink;
           text-decoration: none;
-          margin-left: 2rem;
+          margin-left: 3rem;
           &:hover, &#active{
               color:$pink2;
           }

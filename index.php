@@ -17,18 +17,16 @@
                 <img src="./private/img/logos/" alt="logo">
             </div>
             <ul>
-                <li><a href="">Accueil</a></li>
-                <li><a href="">A propos</a></li>
-                <li><a href="">Services</a></li>
-                <li><a href="">Contact</a></li>
+                <li><a href="#banniere">Accueil</a></li>
+                <li><a href="#A-Propos">A propos</a></li>
+                <li><a href="#Services">Services</a></li>
+                <li><a href="#Galerie">Galerie</a></li>
+                <li><a href="#Contact">Contact</a></li>
             </ul>
         </div>
     </header>
 
     <div class="mxw800p">
-    <section>
-        bla bla bla
-    </section>
 
     </div>
 
