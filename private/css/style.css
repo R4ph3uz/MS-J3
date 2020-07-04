@@ -11,6 +11,8 @@ body {
 .mxw800p {
   max-width: 800px;
   background-color: #f1f0f1;
+  margin: auto;
+  min-height: 300px;
 }
 
 /*# sourceMappingURL=style.css.map */
